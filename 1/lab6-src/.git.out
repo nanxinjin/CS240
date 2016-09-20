@@ -1,0 +1,65 @@
+[master (root-commit) 36022cf] 0 of 100
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 51 files changed, 1748 insertions(+)
+ create mode 100644 .git.out
+ create mode 100644 .local.total.out
+ create mode 100644 Makefile
+ create mode 100644 bits.c
+ create mode 100644 bits.h
+ create mode 100644 diff.out
+ create mode 100755 freq2wav
+ create mode 100644 freq2wav.c
+ create mode 100755 freq2wav.org
+ create mode 100644 freq2wav.org.out
+ create mode 100644 freq2wav.out
+ create mode 100644 mysort.c
+ create mode 100644 mysort.h
+ create mode 100644 none
+ create mode 100644 org-songs/BackToccata.freq
+ create mode 100644 org-songs/bethoven5th.freq
+ create mode 100644 org-songs/birthday.freq
+ create mode 100644 org-songs/birthday.wav
+ create mode 100644 org-songs/bolero.freq
+ create mode 100644 org-songs/bolero.wav
+ create mode 100644 org-songs/bumblebee.freq
+ create mode 100644 org-songs/bumblebee.wav
+ create mode 100644 org-songs/lulubay.freq
+ create mode 100644 org-songs/popcorn.freq
+ create mode 100644 org-songs/popcorn.wav
+ create mode 100644 org-songs/yesterday.freq
+ create mode 100644 org-songs/yesterday.wav
+ create mode 100644 sample.wav
+ create mode 100755 simple-gen
+ create mode 100644 simple-gen.c
+ create mode 100644 songs/BackToccata.freq
+ create mode 100644 songs/bethoven5th.freq
+ create mode 100644 songs/birthday.freq
+ create mode 100644 songs/bolero.freq
+ create mode 100644 songs/bumblebee.freq
+ create mode 100644 songs/lulubay.freq
+ create mode 100644 songs/popcorn.freq
+ create mode 100644 songs/yesterday.freq
+ create mode 100755 test_bits
+ create mode 100644 test_bits.c
+ create mode 100755 test_bits.org
+ create mode 100644 test_bits.org.out
+ create mode 100644 test_bits.out
+ create mode 100755 test_mysort
+ create mode 100644 test_mysort.c
+ create mode 100755 test_mysort.org
+ create mode 100644 test_mysort.org.out
+ create mode 100644 test_mysort.out
+ create mode 100755 testall
+ create mode 100644 total.out
+ create mode 100644 total.txt

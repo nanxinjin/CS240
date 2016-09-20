@@ -1,0 +1,17 @@
+Variable		Address			Value
+str			0x7FFF3D078580
+a			0x7FFF3D078548
+b			0x7FFF3D07854C
+x			0x7FFF3D078560
+y			0x7FFF3D078550
+x.a			0x7FFF3D078560
+x.i			0x7FFF3D078564
+x.b			0x7FFF3D078568
+x.p			0x7FFF3D078570
+head			0x12f8010
+head->str		0x12f8030
+head->next		0x12f8050
+head->next->str		0x12f8070
+head->next->next	0x12f8090
+head->next->next->str	0x12f80b0
+head->next->next->next	0x0

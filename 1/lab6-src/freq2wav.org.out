@@ -1,0 +1,3 @@
+freqFile: songs/notexisting.freq
+waveFile: songs/notexisting.wav
+File "songs/notexisting.freq" not found

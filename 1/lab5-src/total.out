@@ -1,0 +1,24 @@
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Feb  9 03:57:17 EST 2015
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Feb 9 03:57:17 EST 2015  Total:  100 of 100
+

@@ -1,0 +1,932 @@
+[master (root-commit) bfd7bda] 0 of 99
+ Committer: CS24000 Account <cs240@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 56 files changed, 1996 insertions(+)
+ create mode 100644 .git.out
+ create mode 100644 .local.git.out
+ create mode 100644 .local.total.out
+ create mode 100644 Makefile
+ create mode 100644 bits.c
+ create mode 100644 bits.h
+ create mode 100644 diff.out
+ create mode 100755 freq2wav
+ create mode 100644 freq2wav.c
+ create mode 100755 freq2wav.org
+ create mode 100644 freq2wav.org.out
+ create mode 100644 freq2wav.out
+ create mode 100644 life.c
+ create mode 100755 life.org
+ create mode 100644 life.org.out
+ create mode 100644 life.out
+ create mode 100644 mysort.c
+ create mode 100644 mysort.h
+ create mode 100644 none
+ create mode 100644 org-songs/BackToccata.freq
+ create mode 100644 org-songs/bethoven5th.freq
+ create mode 100644 org-songs/birthday.freq
+ create mode 100644 org-songs/birthday.wav
+ create mode 100644 org-songs/bolero.freq
+ create mode 100644 org-songs/bolero.wav
+ create mode 100644 org-songs/bumblebee.freq
+ create mode 100644 org-songs/bumblebee.wav
+ create mode 100644 org-songs/lulubay.freq
+ create mode 100644 org-songs/popcorn.freq
+ create mode 100644 org-songs/popcorn.wav
+ create mode 100644 org-songs/yesterday.freq
+ create mode 100644 org-songs/yesterday.wav
+ create mode 100644 sample.wav
+ create mode 100755 simple-gen
+ create mode 100644 simple-gen.c
+ create mode 100644 songs/BackToccata.freq
+ create mode 100644 songs/bethoven5th.freq
+ create mode 100644 songs/birthday.freq
+ create mode 100644 songs/bolero.freq
+ create mode 100644 songs/bumblebee.freq
+ create mode 100644 songs/lulubay.freq
+ create mode 100644 songs/popcorn.freq
+ create mode 100644 songs/yesterday.freq
+ create mode 100755 test_bits
+ create mode 100644 test_bits.c
+ create mode 100755 test_bits.org
+ create mode 100644 test_bits.org.out
+ create mode 100644 test_bits.out
+ create mode 100755 test_mysort
+ create mode 100644 test_mysort.c
+ create mode 100755 test_mysort.org
+ create mode 100644 test_mysort.org.out
+ create mode 100644 test_mysort.out
+ create mode 100755 testall
+ create mode 100644 total.out
+ create mode 100644 total.txt
+[master 163c244] 0 of 100
+ Committer: Nanxin Jin <jinn@moore20.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 11 files changed, 117 insertions(+), 9 deletions(-)
+[master a3bf54e] 0 of 100
+ Committer: Nanxin Jin <jinn@moore20.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 56 insertions(+), 4 deletions(-)
+[master c39c5c4] 0 of 100
+ Committer: Nanxin Jin <jinn@moore20.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 81 insertions(+), 5 deletions(-)
+ create mode 100644 .test_bits.c.swp
+ rewrite test_bits (71%)
+ rewrite test_mysort (71%)
+[master bce254d] 0 of 100
+ Committer: Nanxin Jin <jinn@moore20.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 63 insertions(+), 20 deletions(-)
+ rewrite test_mysort (63%)
+[master ea2e3d1] 0 of 100
+ Committer: Nanxin Jin <jinn@moore20.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 59 insertions(+), 6 deletions(-)
+[master 2df4b28] 16 of 100
+ Committer: Nanxin Jin <jinn@moore20.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 82 insertions(+), 14 deletions(-)
+[master 8171ab8] 16 of 100
+ Committer: Nanxin Jin <jinn@moore20.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 56 insertions(+), 4 deletions(-)
+[master 36f54b4] 16 of 100
+ Committer: Nanxin Jin <jinn@moore20.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 63 insertions(+), 5 deletions(-)
+[master 81e29d5] 20 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 66 insertions(+), 12 deletions(-)
+ delete mode 100644 .test_bits.c.swp
+[master 2794bea] 20 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 58 insertions(+), 4 deletions(-)
+[master 45b208a] 20 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 59 insertions(+), 5 deletions(-)
+[master 04ff78c] 24 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 61 insertions(+), 9 deletions(-)
+[master bf4e716] 20 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 63 insertions(+), 12 deletions(-)
+ delete mode 100755 test_bits
+[master 5c0ff4c] 28 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 74 insertions(+), 10 deletions(-)
+ create mode 100755 test_bits
+[master ef46747] 32 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 67 insertions(+), 6 deletions(-)
+[master 05da396] 36 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 79 insertions(+), 6 deletions(-)
+[master f62c9d3] 36 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 75 insertions(+), 5 deletions(-)
+[master a178471] 40 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 59 insertions(+), 7 deletions(-)
+[master ec43e77] 40 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 54 insertions(+), 2 deletions(-)
+ create mode 100644 .life.c.swp
+[master 540ed76] 40 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 62 insertions(+), 3 deletions(-)
+ delete mode 100644 .life.c.swp
+[master d2f7331] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 63 insertions(+), 7 deletions(-)
+ create mode 100755 life
+[master d56070f] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 56 insertions(+), 3 deletions(-)
+[master 0173690] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 55 insertions(+), 3 deletions(-)
+[master ac2a06f] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 56 insertions(+), 7 deletions(-)
+[master 3f5c297] 46 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 57 insertions(+), 5 deletions(-)
+[master 19319d0] 46 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 70 insertions(+), 3 deletions(-)
+ create mode 100644 .bits.c.swp
+[master 14c8850] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 75 insertions(+), 5 deletions(-)
+[master e0ad530] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 85 insertions(+), 33 deletions(-)
+[master 952d522] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 80 insertions(+), 17 deletions(-)
+ rewrite life (76%)
+[master 4d40732] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 93 insertions(+), 4 deletions(-)
+ rewrite life (89%)
+[master f8ffcf6] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 65 insertions(+), 4 deletions(-)
+[master 0a6626e] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 57 insertions(+), 5 deletions(-)
+[master a6ed373] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 181 insertions(+), 42 deletions(-)
+ delete mode 100644 .bits.c.swp
+[master 65747ae] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 56 insertions(+), 3 deletions(-)
+[master 503cf19] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 56 insertions(+), 8 deletions(-)
+[master 5c125dc] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 55 insertions(+), 2 deletions(-)
+[master a10603e] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 55 insertions(+), 3 deletions(-)
+[master 32982df] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 56 insertions(+), 5 deletions(-)
+[master cad82db] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 58 insertions(+), 4 deletions(-)
+[master 0b6e028] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 54 insertions(+), 2 deletions(-)
+[master 18ac02a] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 55 insertions(+), 3 deletions(-)
+[master 3bcd0f7] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 134 insertions(+), 82 deletions(-)
+[master d0acdba] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 136 insertions(+), 84 deletions(-)
+[master 6efd65d] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 54 insertions(+), 2 deletions(-)
+[master 8edfeb2] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 56 insertions(+), 3 deletions(-)
+[master 0b86fe9] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 135 insertions(+), 83 deletions(-)
+[master 3dccdf5] 43 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 99 insertions(+), 127 deletions(-)
+ rewrite diff.out (97%)
+[master 35bdee3] 65 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 71 insertions(+), 22 deletions(-)
+[master 23820c1] 65 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 55 insertions(+), 2 deletions(-)
+[master 12585cf] 68 of 100
+ Committer: Nanxin Jin <jinn@moore14.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 56 insertions(+), 4 deletions(-)
+[master af2ffd4] 71 of 100
+ Committer: Nanxin Jin <jinn@sslab06.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 162 insertions(+), 11 deletions(-)
+ rewrite freq2wav (80%)
+[master be9469c] 74 of 100
+ Committer: Nanxin Jin <jinn@sslab06.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 63 insertions(+), 4 deletions(-)
+[master d26cf8a] 74 of 100
+ Committer: Nanxin Jin <jinn@sslab06.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 107 insertions(+), 8 deletions(-)
+ rewrite freq2wav (68%)
+[master d1ee51b] 74 of 100
+ Committer: Nanxin Jin <jinn@sslab06.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 62 insertions(+), 39 deletions(-)
+[master a5b29c0] 74 of 100
+ Committer: Nanxin Jin <jinn@sslab06.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 57 insertions(+), 3 deletions(-)
+[master 40c1b6d] 86 of 100
+ Committer: Nanxin Jin <jinn@sslab06.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 71 insertions(+), 19 deletions(-)
+ rewrite freq2wav.out (81%)
+[master 6eb6310] 86 of 100
+ Committer: Nanxin Jin <jinn@sslab06.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 55 insertions(+), 2 deletions(-)
+[master 3889a2c] 86 of 100
+ Committer: Nanxin Jin <jinn@sslab06.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 54 insertions(+), 2 deletions(-)
+[master df7f9bf] 86 of 100
+ Committer: Nanxin Jin <jinn@moore18.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 54 insertions(+), 2 deletions(-)
+[master 56f29f7] 86 of 100
+ Committer: Nanxin Jin <jinn@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 54 insertions(+), 2 deletions(-)
+ rewrite freq2wav (78%)
+ rewrite simple-gen (74%)
+ rewrite test_bits (79%)
+ rewrite test_mysort (82%)

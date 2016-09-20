@@ -1,0 +1,6 @@
+	Host Name		Architecture (x86, SPARC)				Endianess
+lore.cs.purdue.edu	5.10 Generic_150400-24 sun4u sparc SUNW,Sun-Fire-V445     Machine is Big Endian
+
+data.cs.purdue.edu	x86_64 Intel(R) Xeon(R) CPU E5-2650 0 @ 2.00GHz           Machine is Little Endian
+			GenuineIntel GNU/Linux	
+

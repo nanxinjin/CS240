@@ -1,0 +1,2040 @@
+
+
+-------------------------------------------------
+CS240: Lab 4. cs240   
+Sun Oct  5 23:30:24 EDT 2014
+-------------------------------------------------
+./gauss                             : 0   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. cs240 Sun Oct 5 23:30:24 EDT 2014  Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 12 05:29:24 EDT 2014
+-------------------------------------------------
+./gauss                             : 0   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 12 05:29:24 EDT 2014  Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 12 05:35:24 EDT 2014
+-------------------------------------------------
+./gauss                             : 0   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 12 05:35:24 EDT 2014  Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 12 05:37:13 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 12 05:37:13 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 12 05:38:24 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 12 05:38:24 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 12 05:39:16 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 12 05:39:16 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:29:52 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:29:52 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:37:04 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:37:04 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:37:29 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:37:29 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:41:15 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:41:15 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:43:54 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:43:54 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:44:47 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:44:47 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:47:14 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:47:14 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:47:39 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:47:39 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:55:32 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:55:32 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:56:15 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:56:15 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:57:49 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:57:49 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:58:16 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:58:16 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:59:09 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:59:09 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:59:27 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:59:27 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:59:43 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:59:43 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 19:59:55 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 19:59:55 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 20:01:30 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 20:01:30 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 20:01:45 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 20:01:45 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 20:02:10 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 20:02:10 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 20:07:31 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 20:07:31 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 20:09:32 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 0   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 20:09:32 EDT 2014  Total:  6 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 20:09:55 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 20:09:55 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 20:10:04 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 20:10:04 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 20:10:06 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 20:10:06 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Sun Oct 19 20:42:51 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Sun Oct 19 20:42:51 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 10:13:19 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 10:13:19 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 10:16:52 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 10:16:52 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 10:17:57 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 0   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 10:17:57 EDT 2014  Total:  13 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 13:56:32 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 13:56:32 EDT 2014  Total:  20 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 13:58:09 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 13:58:09 EDT 2014  Total:  20 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 13:58:27 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 13:58:27 EDT 2014  Total:  20 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 13:59:58 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 0   of 7  
+./newton sin 0                      : 0   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 0   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 13:59:59 EDT 2014  Total:  20 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:00:21 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:00:21 EDT 2014  Total:  41 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:03:44 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 0   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:03:44 EDT 2014  Total:  41 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:03:59 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:03:59 EDT 2014  Total:  49 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:08:56 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 0   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:08:56 EDT 2014  Total:  49 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:10:17 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:10:17 EDT 2014  Total:  56 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:15:56 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:15:56 EDT 2014  Total:  56 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:27:02 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:27:02 EDT 2014  Total:  56 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:28:23 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:28:23 EDT 2014  Total:  56 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:29:02 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:29:02 EDT 2014  Total:  56 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:29:48 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:29:48 EDT 2014  Total:  56 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:30:58 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:30:58 EDT 2014  Total:  56 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:32:32 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:32:32 EDT 2014  Total:  56 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:35:00 EDT 2014
+-------------------------------------------------
+./gauss                             : 0   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:35:00 EDT 2014  Total:  50 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:35:35 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:35:35 EDT 2014  Total:  56 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:35:52 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:35:52 EDT 2014  Total:  56 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:35:56 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 0   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:35:56 EDT 2014  Total:  56 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:41:31 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:41:31 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:42:32 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:42:32 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:43:41 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:43:41 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:44:06 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:44:06 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:47:34 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:47:34 EDT 2014  Total:  74 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:48:17 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:48:17 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:48:26 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:48:26 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:48:48 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:48:48 EDT 2014  Total:  74 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:49:12 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:49:12 EDT 2014  Total:  74 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:49:29 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:49:29 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:52:36 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:52:36 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:52:44 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 0   of 6  
+./gauss   < gauss2.txt              : 0   of 6  
+./gauss   < gauss3.txt              : 0   of 6  
+./gauss   < gauss4.txt              : 0   of 6  
+./gauss   < gauss5.txt              : 0   of 7  
+./gauss   < gauss6.txt              : 0   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:52:44 EDT 2014  Total:  62 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:54:26 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:54:26 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:56:29 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:56:29 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:57:31 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:57:32 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 14:57:54 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 14:57:54 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 20:56:06 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 20:56:06 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 21:01:10 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 21:01:10 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 21:04:46 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 21:04:46 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 21:12:10 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 21:12:10 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 21:34:16 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 21:34:16 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 21:41:50 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 21:41:50 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 21:46:07 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 21:46:07 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 21:49:00 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 21:49:00 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 21:49:59 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 21:49:59 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 21:53:00 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 21:53:00 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 21:57:29 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 21:57:29 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Oct 20 21:58:04 EDT 2014
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Oct 20 21:58:04 EDT 2014  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Feb  9 03:52:04 EST 2015
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Feb 9 03:52:04 EST 2015  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Feb  9 03:52:42 EST 2015
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Feb 9 03:52:42 EST 2015  Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 4. jinn   
+Mon Feb  9 03:57:17 EST 2015
+-------------------------------------------------
+./gauss                             : 6   of 6  
+./gauss   < gauss0.txt              : 6   of 6  
+./gauss   < gauss1.txt              : 6   of 6  
+./gauss   < gauss2.txt              : 6   of 6  
+./gauss   < gauss3.txt              : 6   of 6  
+./gauss   < gauss4.txt              : 6   of 6  
+./gauss   < gauss5.txt              : 7   of 7  
+./gauss   < gauss6.txt              : 7   of 7  
+./newton                            : 7   of 7  
+./newton pol 1                      : 7   of 7  
+./newton poly1 1                    : 7   of 7  
+./newton sin 0                      : 7   of 7  
+./newton xsin 0                     : 7   of 7  
+./newton poly2 0                    : 7   of 7  
+./newton imaginary 4                : 8   of 8  
+-------------------------------------------------
+CS240: Lab 4. jinn Mon Feb 9 03:57:17 EST 2015  Total:  100 of 100
+
